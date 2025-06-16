@@ -1,1 +1,1 @@
-This file includes all the necessary things needed for Time Series Analysis.
+This repository includes all the necessary things needed for Time Series Analysis.
